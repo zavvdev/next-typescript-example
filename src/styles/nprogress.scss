@@ -1,0 +1,17 @@
+@import "src/styles/theme";
+
+#nprogress {
+  .bar {
+    background: $cPrimary;
+    height: 3px;
+  }
+
+  .peg {
+    box-shadow: 0 0 10px $cPrimary, 0 0 5px $cPrimary;
+  }
+
+  .spinner-icon {
+    border-top-color: $cPrimary;
+    border-left-color: $cPrimary;
+  }
+}

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LanguageSwitch /> should render LanguageSwitch component (snapshot) 1`] = `
+<DocumentFragment>
+  <div
+    class="root"
+  >
+    <div
+      class="langWrap"
+    >
+      <a
+        class="lang"
+        href="/"
+      >
+        en
+      </a>
+      <span>
+        |
+      </span>
+    </div>
+    <div
+      class="langWrap"
+    >
+      <a
+        class="lang"
+        href="/"
+      >
+        ru
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
